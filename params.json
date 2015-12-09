@@ -1,0 +1,1 @@
+{"name":"Weibored.js","tagline":"Delete all weibo, if you get bored.","body":"# Weibored.js\r\nDelete all weibo, if you get bored.\r\n\r\n1. 安装 UserScript\r\n2. 用桌面浏览器登录微博\r\n3. 转到个人主页 => 点击「我的主页」(http://weibo.com/p/*) \r\n4. 等待...... (如果没有自动开始，则手动刷新一下页面)\r\n5. 完毕后记得卸载\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
