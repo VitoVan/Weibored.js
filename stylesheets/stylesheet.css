@@ -646,6 +646,7 @@ a.code {
   -webkit-transition: opacity ease-in-out 0.3s;  /* Safari <=6.1, Android <= 4.3 */
 }
 
+a.download-button:hover,
 a.zip:hover,
 a.tar:hover,
 a.code:hover {
@@ -719,7 +720,6 @@ footer .owner p {
 
 footer .owner p a {
   font-size: 16px;
-  font-style: italic;
 }
 
 /* Markdown */
