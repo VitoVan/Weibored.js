@@ -450,9 +450,9 @@ h1.title {
   margin: 30px 20px 10px;
   font-size: 60px;
   font-weight: bold;
-  font-style: italic;
   font-family:Georgia, serif;
   text-align: center;
+  text-shadow: 4px 4px 2px rgb(136, 133, 133);  
 }
 
 .wrapper {
@@ -674,7 +674,6 @@ a.download-button span {
   width: auto;
   height: auto;
   padding: 5px 10px;
-  padding-left: 45px;
   display: inline-block;
   text-indent: 0!important;
   color: #fff;
