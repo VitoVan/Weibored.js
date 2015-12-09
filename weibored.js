@@ -2,7 +2,7 @@
 // @name         Weibored.js
 // @namespace    http://vito.sdf.org
 // @version      0.1
-// @description  删除所有微博（用桌面浏览器登录微博，点击「我的主页」，等待......）
+// @description  删除所有微博
 // @author       Vito Van
 // @match        http://weibo.com/p/*
 // @grant        none
