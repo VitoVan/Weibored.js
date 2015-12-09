@@ -5,3 +5,4 @@ Delete all weibo, if you get bored.
 2. 用桌面浏览器登录微博
 3. 点击「我的主页」
 4. 等待......
+5. 完毕后记得卸载
