@@ -4,7 +4,7 @@
 // @version      0.2.0
 // @description  删除所有微博
 // @author       Vito Van
-// @match        http://weibo.com/p/*
+// @match        https?:\/\/weibo.com/p/*
 // @grant        none
 // ==/UserScript==
 'use strict';

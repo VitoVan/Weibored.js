@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  remove all users you're following
 // @author       Ivan Jiang
-// @match        http://weibo.com/*/*follow*
+// @match        https?:\/\/weibo.com/*/*follow*
 // @grant        none
 // ==/UserScript==
 
